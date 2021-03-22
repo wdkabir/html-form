@@ -1,0 +1,46 @@
+body{
+    background: #243b55;
+}
+
+
+h2{
+    color: white;
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+div {
+    background: #141e30;
+    width: 365px;
+    text-align: center;
+    margin-left: 565px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 10px #03e9f4;
+    border-radius: 10px;
+}
+div input {
+    padding: 5px;
+    width: 315px;
+    margin-bottom: 15px;
+    border: none;
+    color: red;
+    border-radius: 5px;
+}
+
+
+div button{
+    background-color:  #141e30;
+    border: 1px solid #03e9f4;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 325px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div button:hover{
+    background: linear-gradient(250deg, transparent, #03e9f4);
+}
